@@ -205,3 +205,8 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Ignore virtual environments, input videos, etc.
+venv/
+input*.mp4
+output.mp4

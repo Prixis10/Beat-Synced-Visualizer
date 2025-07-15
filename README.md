@@ -9,7 +9,7 @@
 
 > 🔊 The video below demonstrates how squares and connectors dynamically appear in sync with the beats:
 
-🎬 `Output Video`(https://drive.google.com/file/d/1fT6o3C9wSfdPZ_zXNYTiX_BYvJG1b7fp/view?usp=drive_link)  
+🎬 [Output Video](https://drive.google.com/file/d/1fT6o3C9wSfdPZ_zXNYTiX_BYvJG1b7fp/view?usp=drive_link)  
 _(Run the script with your own video to generate this!)_
 
 ---
